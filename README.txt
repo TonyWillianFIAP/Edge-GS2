@@ -61,6 +61,3 @@ Este componente do projeto tem como objetivo integrar o ESP32, um microcontrolad
 5. **Resultados:**
    - Os resultados do processamento, como diagnósticos e análises, estarão disponíveis na plataforma de nuvem para revisão.
 
-## Contribuições e Problemas
-
-Contribuições e relatórios de problemas são bem-vindos! Sinta-se à vontade para contribuir com melhorias ou relatar quaisquer problemas encontrados durante o uso deste componente do projeto.
