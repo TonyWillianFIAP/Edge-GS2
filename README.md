@@ -36,7 +36,7 @@ SD.h
 
 ## Configuração do SD Card
 
-![Print do Wokwi](https://github.com/TonyWillianFIAP/Edge-GS2/blob/main/img/Arquitetura.png)
+! [Print do Wokwi](https://github.com/TonyWillianFIAP/Edge-GS2/blob/main/img/Arquitetura.png)
 
 1. **Formate o SD Card:**
    - Formate o SD Card para garantir a compatibilidade com o sistema de arquivos utilizado no projeto.
