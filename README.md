@@ -68,3 +68,7 @@ SD.h
 
 5. **Resultados:**
    - Os resultados do processamento, como diagnósticos e análises, estarão disponíveis na plataforma de nuvem para revisão.
+  
+## Integrantes:
+Henrique Parra Benitez – RM551973
+Tony Willian da Silva Segalin – RM550667 
