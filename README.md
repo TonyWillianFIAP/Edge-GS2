@@ -36,6 +36,8 @@ SD.h
 
 ## Configuração do SD Card
 
+![Print do Wokwi]()
+
 1. **Formate o SD Card:**
    - Formate o SD Card para garantir a compatibilidade com o sistema de arquivos utilizado no projeto.
 
@@ -66,4 +68,3 @@ SD.h
 
 5. **Resultados:**
    - Os resultados do processamento, como diagnósticos e análises, estarão disponíveis na plataforma de nuvem para revisão.
-
