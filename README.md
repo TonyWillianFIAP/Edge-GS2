@@ -44,6 +44,8 @@ SD.h
 2. **Estrutura de Pastas:**
    - Organize as pastas no SD Card para facilitar o armazenamento e recuperação das imagens.
 
+![Link de acesso da simulação](https://wokwi.com/projects/382142903314890753)
+
 ## Configuração da Nuvem
 
 1. **Conta na Plataforma de Nuvem:**
